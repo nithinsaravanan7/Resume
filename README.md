@@ -1,7 +1,7 @@
 # Nithin Resume
-#Nithin Saravanan
-#Flat G05 Ben Russell Court 25 Grasmere Street Leicester, LE27PT
-#+44 78338 83583 nithinsaravanan7@outlook.com www.linkedin.com/in/nithinsaravanan7 
+# Nithin Saravanan
+# Flat G05 Ben Russell Court 25 Grasmere Street Leicester, LE27PT
+# +44 78338 83583 nithinsaravanan7@outlook.com www.linkedin.com/in/nithinsaravanan7 
 #PERSONAL PROFILE
 #Enthusiastic, self-motivated, and diligent computer enthusiast who loves learning new technologies. Know 
 #hardware, software, and networking. Show good problem-solving and teamwork abilities. Learn and apply new ideas 
